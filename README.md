@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+## Name: Adarsh Chowdary R
+## Register Number: 212223040166
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
